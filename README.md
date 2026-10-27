@@ -40,3 +40,7 @@ Il lettore legge l'UID del tag e lo invia al dispositivo collegato come **tastie
 - `PCD_StopCrypto1()` non viene chiamato di proposito, perché causava il blocco del lettore.
 
 Al primo collegamento alcune schede si presentano con un nome USB diverso (ad esempio "Ozobot Circuit Kit"): è il descrittore di fabbrica e sparisce dopo il caricamento del firmware.
+
+## Licenza
+
+Rilasciato con licenza [MIT](LICENSE).
