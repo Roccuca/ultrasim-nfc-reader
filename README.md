@@ -41,6 +41,14 @@ Il lettore legge l'UID del tag e lo invia al dispositivo collegato come **tastie
 
 Al primo collegamento alcune schede si presentano con un nome USB diverso (ad esempio "Ozobot Circuit Kit"): è il descrittore di fabbrica e sparisce dopo il caricamento del firmware.
 
+## Contatti
+
+**Rocco Cannia**
+
+- Email: [rockycannia@gmail.com](mailto:rockycannia@gmail.com)
+- Telegram: [@RoccuCan](https://t.me/RoccuCan)
+- WhatsApp: @roccuca
+
 ## Licenza
 
 Rilasciato con licenza [MIT](LICENSE).
